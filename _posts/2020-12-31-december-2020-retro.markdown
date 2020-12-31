@@ -9,13 +9,13 @@ I've been meaning to start a blog for a long time, and I've finally got around t
 
 I've been tracking my time for at least a month now on my major projects using [toggle.com], so I'll base some of my monthly goals off of the information I've got from there.
 
-![toggl screenshot]
+![toggl screenshot](/images/togglDec2020.png)
 
 ## Fitness
 
 This includes weightlifting and BJJ. Ideally I want to be driving down this number as low as I can so I have more time for other things. BJJ on the other hand is something I actually want to increase (pretty silly of me to track them together!). This next month I'll track it differently and see what I can do. For now my goals are just to conservatively make my workouts shorter and my BJJ sessions longer
 
-**Goal 1: at least 12 hours of BJJ**
+**Goal 1: at least 12 hours of BJJ**\
 **Goal 2: at most 20 hours of Weightlifting**
 
 ## Polish
@@ -38,7 +38,6 @@ While these have been fun, they never really motivated me too much and all ended
 
 I think that's enough for now. I want to keep these posts small and useful for myself. I'm sure I'll iterate on the format (think of this as a MVP blog post!) and can already think of a whole bunch of things I could add or talk about in the future. I guess I'm just excited for the new year. If anyone is reading this, all the best, and I hope you're feeling motivated to work on your goals too.
 
-[toggle.com]: toggle.com
-[toggl screenshot]: (/assets/img/toggl-dec-2020.png)
+[toggle.com]: (toggle.com)
 [this website]: (https://refold.la/roadmap/)
 [tessaract]: (https://github.com/tesseract-ocr/tesseract)
