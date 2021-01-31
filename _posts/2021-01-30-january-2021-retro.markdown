@@ -1,0 +1,54 @@
+---
+layout: post
+title: "January Retrospective - BJJ Gym Locator"
+date: 2021-01-30 22:00:00 +0100
+categories: retro
+---
+
+January was an interesting month, lets talk about how I did against my goals I set at the end of December
+
+![toggl screenshot](/images/togglDec2020.png)
+
+## Last Month’s Goals
+
+**At least 12 hours of BJJ: A**\
+Managed to succeed at this one, and actually get more hours then expected.
+The result has been partially down to more consistent training together with my partner, along with a little supplemental video study time if we don't manage to get the full three hours during the week.
+
+**3 hours every single day of Polish immersion: A**\
+No doubt of this, almost every day was significantly over 3 hours of study. This month, my level has become high enough to read Harry Potter in Polish. It's very engaging and the perfect level of difficulty for me. I recently passed my 500th hour of learning Polish.
+
+![total polish study time - 545 hours](/images/jan2020TotalPolishTime.png)
+
+**At most 20 hours of Weightlifting: B**\
+I racked up a total 20.5 hours of weightlifting this month. This is not great, as one of those weeks was a light week, and took significantly less time than the rest. This next month I do not even have a light week, so I think I might have to adjust my estimate, and also try a new method to reduce my workout time.
+
+**Launch the MVP website of our very first buisness idea: A**\
+We launched our first online website, BJJGymLocator.com! We're super happy about our work, and we've learned a lot in the process. Howeveras we created it we were also learning more and more about buisness, and came to the conclusion to shelf the project for now.
+
+## BJJ Gym Locator
+
+**The Idea**
+
+Me and my partner had previously had troubles when travelling to foreign countries, as we found it hard to find BJJ gyms to train at. A website that contained up to date information of relavent gyms would have been really good.
+
+This is something that Google usually does really well automatically with it's embedded map, but searches for BJJ gyms often miss many BJJ gyms that are good but bad at advertising. It also includes lots of MMA gyms, and generic fitness gyms, which makes the whole process a lot harder. To get a sense of the "pain", when we planned our holiday, it took us around 3-4 hours to plan the gyms we were going to train in 3 different cities. We built out a simple website (first completely out of static html pages and a bit of JS for interaction) and managed to release it two weeks into January.
+
+![BJJGymLocator](/images/BJJGymLocator.png)
+
+One thing we noticed is that we had absolutely no traffic. After researching into SEO for a bit we rebuilt the website with a backend serving custom static pages for each city and country we covered. This way we would show up in searches for "Best BJJ gyms in Warsaw" and "Best BJJ gyms in Brasil", as long as we had gyms in the relevant countries and cities.
+
+**The Problem**
+
+We had a few problems, which we started to realise. Firstly, how do you monetise? We considered both ads, and sponsorship, but both of these option require a very large number of monthly users and visits. A lot of very smart bootstrappers talk about the advantage of focusing on selling things for a larger cost to a smaller market. You can make £3,000 a month with only 60 customers paying £50 a month. With 3000 customers on a £1 subscription you cann do the same. To make that money with Google adwords? over 700,000 monthly views. How did our views compare to that number?
+
+![48 users in the month of January](/images/jan2020Users.png)
+
+We considered other ways of marketing or building off othe success of the app. Many BJJ gyms have very bad websites, and charge around £50 a month for each student. Gym owners who have websites available on BJJGymLocator would make a good market of customers to reach out to, and this is something we would consider in the future, but for now there's a bigger problem. **In lockdown, the BJJ community is a fraction of it's usual size**. This has made it somewhat difficult to continue investing into BJJGymLocator as a project right now. It's hard to validate any other BJJ products during this time, as many gyms are scraping by, and are not trying to recruit new students. I'm still crossing my fingers for our SEO optimisation driving more views next month, but for now it's on the back boiler, while we try something else.
+
+## Febuary goals
+
+I think I'm not going to track this month personal goals unrelated to buisness. While it's important to me how much progress I make in aspects of my personal life, I'm not sure if it'll be interesting to anyone else. It's already served it's use, letting me start writing retrospectives, even though I had no projects to talk about yet. Me and my partner have a really exciting idea that we think takes a lot of what we learned and applies it (start small, subscription sold to small buisnesses, validate the idea ASAP). We're going to focus on trying to validate (or invalidate) a new idea as fast as possible, and we think we can do that this month.
+
+**Goal 1: Send 10 emails to gauge interest in a new product**\
+**Goal 2: Build a Woocommerce plugin**

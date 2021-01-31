@@ -16,12 +16,14 @@
 title: Daniel Gibbons
 email: daniel_gibbons_m@yahoo.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Skyscanner Developer, Optimistic Person, not much else to say for now! 
-  I'll make sure to update this as my skills and acheivements grow (fingers crossed)
+  Skyscanner Developer, Optimistic Person
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: slowSort
+
+# Google Analytics
+google_analytics: G-9DNGPZE65M
 
 # Build settings
 markdown: kramdown
