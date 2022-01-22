@@ -9,7 +9,7 @@ I've been meaning to start a blog for a long time, and I've finally got around t
 
 I've been tracking my time for at least a month now on my major projects using [toggle.com], so I'll base some of my monthly goals off of the information I've got from there.
 
-![toggl screenshot](/images/togglDec2020.png)
+![toggl screenshot](/assets/images/togglDec2020.png)
 
 ## Fitness
 

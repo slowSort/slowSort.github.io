@@ -9,7 +9,7 @@ February was an interesting month. There was a lot of good progress towards our 
 
 ## Last Month’s Timeline
 
-![total hours on app - 16](/images/feb2020AppHours.png)
+![total hours on app - 16](/assets/images/feb2020AppHours.png)
 
 We worked a total of 16 hours on the app each. All things considered feels like a solid amount (who does not want more time?), with the majority coming from a week off where we worked every day. A small problem was the first week of February, where we did not do anything. I think in future we'll try to build the habit of working even a little every week, which will add up over time.
 

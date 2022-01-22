@@ -7,7 +7,7 @@ categories: retro
 
 January was an interesting month, lets talk about how I did against my goals I set at the end of December
 
-![toggl screenshot](/images/togglDec2020.png)
+![toggl screenshot](/assets/images/togglDec2020.png)
 
 ## Last Month’s Goals
 
@@ -18,7 +18,7 @@ The result has been partially down to more consistent training together with my 
 **3 hours every single day of Polish immersion: A**\
 No doubt of this, almost every day was significantly over 3 hours of study. This month, my level has become high enough to read Harry Potter in Polish. It's very engaging and the perfect level of difficulty for me. I recently passed my 500th hour of learning Polish.
 
-![total polish study time - 545 hours](/images/jan2020TotalPolishTime.png)
+![total polish study time - 545 hours](/assets/images/jan2020TotalPolishTime.png)
 
 **At most 20 hours of Weightlifting: B**\
 I racked up a total 20.5 hours of weightlifting this month. This is not great, as one of those weeks was a light week, and took significantly less time than the rest. This next month I do not even have a light week, so I think I might have to adjust my estimate, and also try a new method to reduce my workout time.
@@ -34,7 +34,7 @@ Me and my partner had previously had troubles when travelling to foreign countri
 
 This is something that Google usually does really well automatically with it's embedded map, but searches for BJJ gyms often miss many BJJ gyms that are good but bad at advertising. It also includes lots of MMA gyms, and generic fitness gyms, which makes the whole process a lot harder. To get a sense of the "pain", when we planned our holiday, it took us around 3-4 hours to plan the gyms we were going to train in 3 different cities. We built out a simple website (first completely out of static html pages and a bit of JS for interaction) and managed to release it two weeks into January.
 
-![BJJGymLocator](/images/BJJGymLocator.png)
+![BJJGymLocator](/assets/images/BJJGymLocator.png)
 
 One thing we noticed is that we had absolutely no traffic. After researching into SEO for a bit we rebuilt the website with a backend serving custom static pages for each city and country we covered. This way we would show up in searches for "Best BJJ gyms in Warsaw" and "Best BJJ gyms in Brasil", as long as we had gyms in the relevant countries and cities.
 
@@ -42,7 +42,7 @@ One thing we noticed is that we had absolutely no traffic. After researching int
 
 We had a few problems, which we started to realise. Firstly, how do you monetise? We considered both ads, and sponsorship, but both of these option require a very large number of monthly users and visits. A lot of very smart bootstrappers talk about the advantage of focusing on selling things for a larger cost to a smaller market. You can make £3,000 a month with only 60 customers paying £50 a month. With 3000 customers on a £1 subscription you cann do the same. To make that money with Google adwords? over 700,000 monthly views. How did our views compare to that number?
 
-![48 users in the month of January](/images/jan2020Users.png)
+![48 users in the month of January](/assets/images/jan2020Users.png)
 
 We considered other ways of marketing or building off othe success of the app. Many BJJ gyms have very bad websites, and charge around £50 a month for each student. Gym owners who have websites available on BJJGymLocator would make a good market of customers to reach out to, and this is something we would consider in the future, but for now there's a bigger problem. **In lockdown, the BJJ community is a fraction of it's usual size**. This has made it somewhat difficult to continue investing into BJJGymLocator as a project right now. It's hard to validate any other BJJ products during this time, as many gyms are scraping by, and are not trying to recruit new students. I'm still crossing my fingers for our SEO optimisation driving more views next month, but for now it's on the back boiler, while we try something else.
 
