@@ -28,11 +28,14 @@ google_analytics: G-9DNGPZE65M
 # Build settings
 markdown: kramdown
 
-theme:      tale
-permalink:  /:year-:month-:day/:title
-paginate:   5
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
