@@ -1,8 +1,9 @@
 ---
+author: Daniel Gibbons
 layout: post
-title: "January Retrospective - BJJ Gym Locator"
+title: "January - BJJ Gym Locator"
 date: 2021-01-30 22:00:00 +0100
-categories: retro
+tags: retro
 ---
 
 January was an interesting month, lets talk about how I did against my goals I set at the end of December

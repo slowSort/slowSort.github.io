@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Skyscanner Developer, Optimistic Person
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slowsort.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username: slowSort
 author.name: Daniel
 
@@ -27,8 +28,13 @@ google_analytics: G-9DNGPZE65M
 
 # Build settings
 markdown: kramdown
+include:
+  - _pages
 
-remote_theme: chesterhow/tale
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
@@ -37,6 +43,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 # Exclude from processing.
@@ -50,5 +57,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 

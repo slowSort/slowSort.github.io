@@ -1,8 +1,9 @@
 ---
+author: Daniel Gibbons
 layout: post
 title: "My First Retro"
 date: 2020-12-31 22:00:00 +0100
-categories: retro
+tags: retro
 ---
 
 I've been meaning to start a blog for a long time, and I've finally got around to it! To help get myself off to a good 2021 (this year has been as interesting for me as it has for you, I'm sure) I've decided to try start a monthly retrospective. I hope this can get me to think about my future in month size chunks, and set me up to grow myself in all the ways I want.

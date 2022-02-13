@@ -1,8 +1,9 @@
 ---
+author: Daniel Gibbons
 layout: post
-title: "February Retro - Zero waste sell by weight plugin"
+title: "February - Zero waste sell by weight plugin"
 date: 2021-03-07 22:00:00 +0100
-categories: retro
+tags: retro
 ---
 
 February was an interesting month. There was a lot of good progress towards our goal, but it's unclear if we're on the right path at all with our product.

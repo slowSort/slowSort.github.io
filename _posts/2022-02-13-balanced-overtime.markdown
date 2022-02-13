@@ -1,4 +1,5 @@
 ---
+author: Daniel Gibbons
 title: "Should I work unpaid overtime as a software engineer?"
 ---
 
