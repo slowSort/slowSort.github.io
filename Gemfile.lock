@@ -264,6 +264,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-remote-theme
+  jekyll-sitemap
   kramdown-parser-gfm
   tale
   tzinfo (~> 1.2)
