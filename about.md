@@ -5,39 +5,14 @@ nav_header: true #If you want the page to be displayed on the nav menu on top of
 permalink: /about/
 ---
 
-## Simply Cyan
+Hey there! My name's Daniel 👋 and my favorite emoji is 🙇‍♂️ (at your service).
 
-Simply Cyan is a [Jekyll](https://github.com/jekyll/jekyll) theme dedicated to text and reading. This theme focuses on readability and clarity. Different available functions are at work to facilitate the reader's experience.
+Edinburgh is my home, but since the pandemic, I've spent a lot of time traveling around, living out of a suitcase with my wife Abi. We're currently situated in Istanbul. 🇹🇷
 
-You can view the demo of the theme [here](https://pquod.github.io/simply-cyan-demo/) 
+Outside of work you'll most likely find me learning either Spanish (by trying not to cry laughing at Betty la fea) or Polish (by trying not to cry pronouncing Grzegorz Brzęczyszczykiewicz).
 
-The design of Simply Cyan is sober and elegant, yet pop with its bright colorful oblique stripes punctuating the screen.
+I love to read! Last year I read or listened to over 40 books in Polish and Spanish, if you're curious you can find my book list here.
 
-Symply Cyan can feature a multitude of authors and/or categories and it offers a page to display their description, as well as an archives page to display all the site's posts.
+The M. as my middle name stands for Maung, I'm half Scottish, half Burmese (all business). I started using it more often for a very serious reason and not at all when I realized that Samuel L. Jackson sounds way cooler than Samuel Jackson.
 
-## Features
-
-- Available as a theme gem and Github Pages theme
-- Compatible with all major browsers
-- Sober and elegant design you can use directly from how it is served or you can use as a boilerplate for something custom
-- Dark/light mode
-- The size of the fonts can be enlarged by the visitors
-- A toggle allows the visitors to switch between serif and sans-serif fonts to help with people experiencing dyslexia
-- Configurable colors and fonts in a setting file with detailed description
-- A single page regrouping all the categories of the site and a page by category displaying a description and all the posts concerned by them
-- Documentation
-
-
-## How to start and use Simply Cyan
-
-Visit the readme.md file [on the theme's repo](https://github.com/PQuod/simply-cyan-theme) to know more about how to get started with a Jekyll theme and how to customize Simply Cyan.
-
-## Contact
-
-If you have any questions regarding this theme or if you have ideas about how to make it better, new functionalities to add or new ways to display things, feel free to contact me here: l.desaubliaux@gmail.com, I'd be happy to hear from you!
-
-## Thanks
-
-Simply Cyan is a public theme adaptation of a theme I made for a creative writing website, **Internet Exploreur**.
-
-The site is no longer active but an archive can be found [here](https://pquod.github.io/InternetExploreur/). A big thank you to Candice Labrousse, Quentin Leclerc et Robinson Lacotte, who contributed to its design and had lots of useful advices in order to make it beautiful, accessible and enjoyable by the most people possible.
+I hope you have some fun or learn something new from reading my blog. In fact, nothing would make me happier
