@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My indie hacker journey"
+title: "My solo founder experience"
 ---
 
 Title says it all really! After falling in love with the idea of indie hacking and creating a few small projects, I have paused being an indie hacker to focus on other things in my life.
@@ -22,7 +22,7 @@ I did however learn that I can create something cool on my own, and that I don't
 
 When going on holiday I found it very time consuming locating Brazilian Jiu Jitsu gyms. Their websites are often missing pricing, out of date, and not written in English. My aggregator site kept all the basic data (timetable, cost, contact details) in one easy place, and was easy to search by city and country.
 
-This time I wanted to actually ship something. I still had no business model, but at least I was scratching my own itch and keeping the scope small. I started by adding all the gyms in London and Poznań (I was going to Poland at the time). 
+This time I wanted to actually ship something. I still had no business model, but at least I was scratching my own itch and keeping the scope small. I started by adding all the gyms in London and Poznań (I was going to Poland at the time).
 
 It barely got traffic (like 20 organic views, and 100 impressions). Not quite enough to slap some ads on and leave the day job... This was maybe because it was built bang in the middle of the covid lockdown, and flights were banned to almost every country. I decided to pull the plug and try something else.
 

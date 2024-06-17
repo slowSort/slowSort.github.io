@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improving work-life balance"
+title: "Thoughts on work-life balance"
 ---
 
 # Intro
