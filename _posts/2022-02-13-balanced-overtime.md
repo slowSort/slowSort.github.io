@@ -1,5 +1,5 @@
 ---
-author: Daniel Gibbons
+layout: post
 title: "Improving work-life balance"
 ---
 
