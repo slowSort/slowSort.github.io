@@ -411,3 +411,19 @@ article table img {
     display: none;
   }
 }
+
+.headshot {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-left: 0;
+}
+
+ul, ol {
+  margin-left: 20px;
+}
