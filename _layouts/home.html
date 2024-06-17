@@ -11,7 +11,7 @@ layout: default
           <h1 class="list_post_title"><span class="a-nude">{{ post.title | escape }}</span></h1>
         </a>
         {% assign authors = post.category | join: ", " %}
-        <h2 class="list_post_info">{{ authors }} ✷ {{ post.date | date_to_long_string }}</h2>
+        <!-- <h2 class="list_post_info">{{ authors }} ✷ {{ post.date | date_to_long_string }}</h2> -->
         <div class="line"></div>
       {% endfor %}
     </div>
