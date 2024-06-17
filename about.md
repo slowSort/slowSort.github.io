@@ -5,14 +5,14 @@ nav_header: true #If you want the page to be displayed on the nav menu on top of
 permalink: /about/
 ---
 
-Hey there! My name's Daniel 👋 and my favorite emoji is 🙇‍♂️ (at your service).
+![My photo](../assets/headshot.png){: .headshot}
 
-Edinburgh is my home, but since the pandemic, I've spent a lot of time traveling around, living out of a suitcase with my wife Abi. We're currently situated in Istanbul. 🇹🇷
+Hey there 👋
 
-Outside of work you'll most likely find me learning either Spanish (by trying not to cry laughing at Betty la fea) or Polish (by trying not to cry pronouncing Grzegorz Brzęczyszczykiewicz).
+I'm a digital nomad based out of Edinburgh, Scotland.
 
-I love to read! Last year I read or listened to over 40 books in Polish and Spanish, if you're curious you can find my book list here.
+As a developer, I take pride in being a generalist. I love working on web based products big or small, and have spent the last five years mostly working with React and Node.js.
 
-The M. as my middle name stands for Maung, I'm half Scottish, half Burmese (all business). I started using it more often for a very serious reason and not at all when I realized that Samuel L. Jackson sounds way cooler than Samuel Jackson.
+I'm currently the main developer at [AirManual](https://www.airmanual.co/). The last three features I built were a full-text document searcher, a GPT powered template creator, and a Grammarly style feedback provider for our document editor.
 
-I hope you have some fun or learn something new from reading my blog. In fact, nothing would make me happier
+I hope you have some fun or learn something new from reading my blog. In fact, nothing would make me happier. 😊
