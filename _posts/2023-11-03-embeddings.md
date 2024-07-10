@@ -9,7 +9,9 @@ Here I use the OpenAI embeddings API to get a 5x speed increase in our template 
 
 ### Where we started
 
-Previously, we provided the title of a new page and all of our template names to GPT.  We then asked it to return a JSON formatted list of similar templates.
+Users would provide a page title they wanted to use for their new process. We returned to the user a list of relevant example templates based on that page title. 
+
+Previously, we provided the title of a new page and all of our template titles to GPT.  We then asked it to return a JSON formatted list of similar templates.
 
 For example, with the suggested title  “How to call a customer” we get back the following:
 
