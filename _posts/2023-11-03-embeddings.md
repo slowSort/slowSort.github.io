@@ -3,7 +3,7 @@ layout: post
 title: "5x'ing our recommendation speed with Embeddings"
 ---
 
-When you're looking to categorize, search, or recommend relevant content embeddings are incredibly powerful.
+When you're looking to categorize, search, or recommend relevant content, embeddings are incredibly powerful.
 
 Here I use the OpenAI embeddings API to get a 5x speed increase in our template recommender feature.
 
@@ -33,7 +33,7 @@ Word embeddings reduce phrases down to 2d coordinate points. The smaller the dis
 
 ![The Ultimate Guide to Word Embeddings](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Word-embeddings-model.png?ssl=1)
 
-After pre-calculating and storing the similarity for all our page templates, the code to get similar templates starts to look real simple:
+After pre-calculating the embeddings for each template and storing them in our database, the code to get similar templates starts to look real simple:
 
 ```
 async function getEmbeddings ({title, itemId}, context) {
@@ -58,8 +58,10 @@ async function getEmbeddings ({title, itemId}, context) {
 <br>
 ### The final result
 
+Pre-calculating the embeddings means we only have to run a very quick cosine similarity check to get the similarity of templates, rather than asking GPT. 
+
 Now averaging <1000ms response times, our template recommender is a viable feature.
 
-If you're looking to handle recommendations, I highly suggest you take a look into Embeddings. If they fit your use case they can be a complete game-changer!
+If you're looking to create a feature involving recommendations, I highly suggest you take a look into Embeddings. If they fit your use case they can be a complete game-changer!
 
 <div style="position: relative; padding-bottom: 62.7177700348432%; height: 0;"><iframe src="https://www.loom.com/embed/f5958b73b8e04bddaffe6d1326e86979?sid=b7cd4c0e-1b9b-419a-944e-056167b90e63" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
