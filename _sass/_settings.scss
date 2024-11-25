@@ -3,7 +3,7 @@
 
 :root {
   // Variable for the light mode
-  --bg-color: #f2f2f2; // Background color
+  --bg-color: #eee7d7; // Background color
   --font-serif: "Libre Baskerville", serif; // Serif font
   --font-sansserif: "Montserrat", sans-serif; // Sans-Serif font
   --font-color: #333333; // Font color
@@ -11,7 +11,7 @@
   --text-width: 35em; // Width of the area where the content of the pages and posts are displayed
   --text-font: var(--font-serif); // Default font for the text
   --line-height: calc(var(--font-size) * 2); // Line height
-  --custom-color: cyan; // Complementary color, for the lines and underlinings
+  --custom-color: rgb(248, 118, 102); // Complementary color, for the lines and underlinings
   --lines: linear-gradient(
     to top,
     var(--custom-color) 50%,
