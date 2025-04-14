@@ -41,7 +41,7 @@ jobs:
         run: |
           git clone https://github.com/rbenv/ruby-build.git
           sudo ./ruby-build/install.sh
-          ~/.rbenv/bin/ruby-build 3.1.0 ~/.rbenv/versions/3.1.0
+          ruby-build 3.1.0 $HOME/.rbenv/versions/3.1.0
           echo "$HOME/.rbenv/versions/3.1.0/bin" >> $GITHUB_PATH
 
       - name: Setup Ruby
